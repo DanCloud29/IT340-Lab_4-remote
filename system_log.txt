@@ -1,0 +1,5 @@
+Memory Log - Wed Sep 16 12:34:51 AM EDT 2026
+Mem:           3.3Gi       1.5Gi       629Mi        38Mi       1.5Gi       1.8Gi
+Memory Log - Wed Sep 16 12:35:21 AM EDT 2026
+Mem:           3.3Gi       1.4Gi       638Mi        38Mi       1.5Gi       1.8Gi
+--------------------------------
